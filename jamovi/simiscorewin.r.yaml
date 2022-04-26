@@ -1,0 +1,11 @@
+---
+name:  SimiScoreWin
+title: Text Similarity Scoring Windows
+jrs:   '1.1'
+
+items:
+    - name:  text
+      title: Text Similarity Scoring Windows
+      type:  Preformatted
+
+...
